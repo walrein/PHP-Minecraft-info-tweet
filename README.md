@@ -1,4 +1,5 @@
-入れないといけないもの
-cli
-curl
-auth
+# 入れないといけないもの
+
+- cli
+- curl
+- auth
