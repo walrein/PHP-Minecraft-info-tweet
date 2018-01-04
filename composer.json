@@ -1,0 +1,6 @@
+{
+    "require": {
+        "abraham/twitteroauth": "^0.7.4",
+        "xPaw/PHP-Minecraft-Query": "^2.0"
+    }
+}

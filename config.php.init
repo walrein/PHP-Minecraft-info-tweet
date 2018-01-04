@@ -1,0 +1,5 @@
+<?php
+define('API_KEY', 'xxxxxxxxx');
+define('API_SECRET', 'xxxxxxxxxx');
+define('ACCESS_TOKEN', 'xxxxxxxxxxxx');
+define('ACCESS_SECRET', 'xxxxxxxxxxxxxxx');
